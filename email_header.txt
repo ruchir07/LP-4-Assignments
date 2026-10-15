@@ -1,0 +1,7 @@
+From: sender@example.com
+To: recipient@example.com
+Subject: Sample Email
+Date: Tue, 13 Oct 2026 09:00:00 +0530
+Return-Path: <sender@example.com>
+Received: from mail.example.com by mx.example.net
+Authentication-Results: mx.example.net; spf=pass; dkim=pass; dmarc=pass
